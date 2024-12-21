@@ -1,0 +1,1 @@
+console.log("YouTube Time Tracker is active");
